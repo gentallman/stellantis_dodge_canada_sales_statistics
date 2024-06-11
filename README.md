@@ -18,6 +18,12 @@
    - Employed Power Query Editor to further refine and shape the data as needed.
    - Created a visually appealing report in Power BI, utilizing various visuals, DAX (Data Analysis Expressions), and other Power BI features to present the data effectively.
 
+## Contact
+
+Author: Smit Rana
+
+LinkedIn: [linkedin.com/in/smit98rana/](https://www.linkedin.com/in/smit98rana/)https://www.linkedin.com/in/smit98rana/
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
