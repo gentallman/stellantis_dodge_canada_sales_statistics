@@ -1,4 +1,4 @@
-# Dodge Canada Sales Report Concept
+<h1 align="center"> Dodge Canada Sales Report Concept </h1>
 
 ![Dashboard_page-0001](https://github.com/gentallman/stellantis_dodge_canada_sales_statistics/assets/78334851/fcde933a-7644-4622-ac71-a51a896ea101)
 
