@@ -36,7 +36,18 @@
 
 ## Contact
 
-Author: Smit Rana
+Author: [@Smit Rana](https://www.linkedin.com/in/smit98rana/)
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+</p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=I+hope+this+work+serves+you+well!" alt="Typing SVG" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" >
 
 LinkedIn: https://www.linkedin.com/in/smit98rana/
 
